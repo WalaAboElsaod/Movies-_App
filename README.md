@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+ ![image alt](https://github.com/WalaAboElsaod/Movies-_App/blob/8ca9cad508d4d2357f610c2725349cf5d263f196/Movies-app.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
